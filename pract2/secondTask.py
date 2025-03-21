@@ -40,5 +40,5 @@ def check_isomorphism(file_path):
     return is_isomorphic(matrix1, matrix2)
 
 
-result = check_isomorphism('28_2.txt')
+result = check_isomorphism('25_2.txt')
 print(f"{'Да' if result else 'Нет'}")
